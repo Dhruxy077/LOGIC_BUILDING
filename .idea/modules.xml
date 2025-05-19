@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Character logic of an array/Character logic of an array.iml" filepath="$PROJECT_DIR$/Character logic of an array/Character logic of an array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/LOGIC BUILDING.iml" filepath="$PROJECT_DIR$/.idea/LOGIC BUILDING.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Manipulate logic of an array/Manipulate logic of an array.iml" filepath="$PROJECT_DIR$/Manipulate logic of an array/Manipulate logic of an array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Numeric logic/Numeric logic.iml" filepath="$PROJECT_DIR$/Numeric logic/Numeric logic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Pattern programs/Pattern programs.iml" filepath="$PROJECT_DIR$/Pattern programs/Pattern programs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Projects for logic building/Projects for logic building.iml" filepath="$PROJECT_DIR$/Projects for logic building/Projects for logic building.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Recursive logic/Recursive logic.iml" filepath="$PROJECT_DIR$/Recursive logic/Recursive logic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/computational logic/computational logic.iml" filepath="$PROJECT_DIR$/computational logic/computational logic.iml" />
+    </modules>
+  </component>
+</project>

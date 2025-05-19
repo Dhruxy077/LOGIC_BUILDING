@@ -1,0 +1,5 @@
+1. check if a number is a power of 2
+2. find the only non-repeated number in an array where every other number repeats twice
+3. count the number of 1 bits in a number
+4. toggle the kth bit of a number
+5. find the XOR of all elements in a array

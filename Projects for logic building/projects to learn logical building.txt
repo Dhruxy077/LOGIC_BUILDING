@@ -1,0 +1,7 @@
+1. simple calculator with all mathematical functions
+2. build a program to generate fractal patterns like the sierpinski triangle
+3. implement a matrix multiplication program
+4. create a sudoku solver
+5. develop a program to check plagiarism in document by comparing substring
+6. create a maze solver using recursion and backtracking
+7. build a basic file compression algorithm using bit-level operations

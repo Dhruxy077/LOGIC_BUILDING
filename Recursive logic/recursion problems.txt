@@ -1,0 +1,8 @@
+1. compute the factorial of a number
+2. generate the Fibonacci sequence up to n
+3. solve the tower of Hanoi
+4. print all subsets of a given array
+5. find the nth term of a geometric progression using recursion
+6. solve the n-queens problem for a chessboard of size n x n
+7. generate all valid combinations of n pairs of parentheses
+8. perform binary search recursively

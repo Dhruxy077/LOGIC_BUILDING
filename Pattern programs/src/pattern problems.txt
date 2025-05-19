@@ -1,0 +1,13 @@
+1. Square star pattern
+2. Inverted Pyramid star pattern
+3. Pyramid star pattern
+4. Print the number in the given pattern
+5. Hollow square star pattern
+6. Butterfly pattern
+7. Downward triangle star pattern
+8. Hollow diamond star pattern
+9. Cross star pattern
+10. Hollow pyramid star pattern
+11. Diamond star pattern
+12. Pascal Triangle
+13. print 0 and 1 pattern

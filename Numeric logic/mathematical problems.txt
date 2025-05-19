@@ -1,0 +1,10 @@
+1. check if a number is prime
+2. find the sum of all prime number up to n
+3. determine the number of trailing zeros in the factorial of a number
+4. calculate the sum of digits of a number until it becomes a single digit
+5. solve modular exponentiation efficiency
+6. find all prime factors of a number
+7. check if a number is an Armstrong number
+8. print the first n perfect number
+9. determine if a number is a palindrome 
+10. compute the nth Fibonacci number iteratively

@@ -1,0 +1,10 @@
+1. reverse an array
+2. find the maximum an minimum elements in an array
+3. rotate an array to the right by k steps
+4. find the second largest element in an array
+5. check if two arrays are rotations of each other
+6. find all pairs in an array whose sum equals a target
+7. merge two sorted arrays into a single sorted array
+8. move all zeros in an array to the end
+9. find the length of the longest subarray with a give sum
+10. determine if an array contains a subarray with a sum of zero
